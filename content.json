@@ -1,1 +1,23 @@
-{}
+{
+    "sender": {
+        "street": "sgfsgsf",
+        "Huisnummer": 123,
+        "Stad": "sqfqsfdqs",
+        "Postcode": 1234
+    },
+    "Bestemmeling": {
+        "StraatEnNummer": {
+            "Straat": "fsqfsq",
+            "Huisnummber": 123
+        },
+        "Stad": "sfsqsf"
+    },
+    "Postzegels": [
+        {
+            "Waarde": 1
+        },
+        {
+            "Waarde": 2
+        }
+    ]
+}
